@@ -1,0 +1,10 @@
+{
+    "name": "c-project",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "build": "gcc main.c -o main",
+      "start": "./main"
+    },
+    "dependencies": {}
+}
